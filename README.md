@@ -2,9 +2,9 @@
 A library of little math functions written in MATLAB (mostly little fractal animations)
 
 ## Table of Contents
-  * [Chaos.m](Chaos.m)
-  * [Chaos4.m](Chaos4.m)
-  * [Sierpinski.m](Sierpinski.m)
+  * [Chaos.m](chaos.m)
+  * [Chaos4.m](chaos4.m)
+  * [Sierpinski.m](sierpinski.m)
 
 
 ## Chaos.m
