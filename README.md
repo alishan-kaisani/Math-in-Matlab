@@ -21,5 +21,4 @@ A library of little math functions written in MATLAB (mostly little fractal anim
   This script will collct user input and will display a animation up to that iteration of [Sierpinski's Triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle "Sierpinski's Trinagle Wiki"). 
   Here is a visual image of what the fractal looks like at   a high number of iterations. The script uses a different color with each
   iteration to show the particular triangles that are removed at   each stage.
-  ![Sierpinski's Triangle][image]
-  [image]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sierpinski_triangle.svg/220px-Sierpinski_triangle.svg.png "Sierpinski's Triangle"
+  ![Sierpinski's Triangle](https://i.stack.imgur.com/4Mpv9.png "Sierpinski's Triangle")
