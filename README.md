@@ -22,4 +22,4 @@ A library of little math functions written in MATLAB (mostly little fractal anim
   Here is a visual image of what the fractal looks like at   a high number of iterations. The script uses a different color with each
   iteration to show the particular triangles that are removed at   each stage.
   ![Sierpinski's Triangle][image]
-  [image]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sierpinski_triangle.svg/220px- Sierpinski_triangle.svg.png "Sierpinski's Triangle"
+  [image]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sierpinski_triangle.svg/220px-Sierpinski_triangle.svg.png "Sierpinski's Triangle"
